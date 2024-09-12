@@ -1,7 +1,5 @@
 # cs7316-requirements-project
 
-echo "# cs7316-requirements-project" >> README.md
-
 First:
 git init
 git branch -M main
